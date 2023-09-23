@@ -69,6 +69,14 @@ body {
   border: 2px solid #edf1f4;
 }
 
+.calculator .buttons span#div,
+.calculator .buttons span#mult,
+.calculator .buttons span#sub {
+  background-color: #1B6E52;
+  border-radius: 2px solid #edf1f4;
+  color: #fff;
+}
+
 .calculator .buttons span#clear:active,
 .calculator .buttons span#plus:active,
 .calculator .buttons span#equal:active {
